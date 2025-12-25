@@ -2,6 +2,7 @@ from typing import List
 
 
 print()
+print()
 
 def show_menu() -> None:
     print("\n====== 📱 Contact Book v2.2 ======")
