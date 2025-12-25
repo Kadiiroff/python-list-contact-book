@@ -1,6 +1,8 @@
 from typing import List
 
 
+print()
+
 def show_menu() -> None:
     print("\n====== 📱 Contact Book v2.2 ======")
     print("1. + Yangi kontakt qoshish")
